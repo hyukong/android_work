@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         //将菜单资源加载到当前的菜单资源
         getMenuInflater().inflate(R.menu.main,menu);
         return true;
+        //test
+
     }
 
 }

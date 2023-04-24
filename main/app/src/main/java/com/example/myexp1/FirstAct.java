@@ -21,6 +21,7 @@ public class FirstAct extends Activity {
         Button button3 = (Button) findViewById(R.id.button_3);//按钮对象
         Button button4 = (Button) findViewById(R.id.button_4);//按钮对象
         Button button5 = (Button) findViewById(R.id.button_5);//按钮对象
+        Button test=(Button) findViewById(R.id.totest);
 
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,6 +66,14 @@ public class FirstAct extends Activity {
                 startActivityForResult(intent, 1);//请求码只要是一个唯一值就行
 
 
+            }
+        });
+        test.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(FirstAct.this, "you click 显式", Toast.LENGTH_SHORT).show();
+                Intent intent=new Intent(FirstAct.this,Test.class);//构建intent传入上下文和目标活动
+                startActivity(intent);//显性intent
             }
         });
 

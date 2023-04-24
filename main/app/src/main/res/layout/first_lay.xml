@@ -23,6 +23,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="getdata"/>
+    <Button android:id="@+id/totest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="getdata"/>
 
 
 </LinearLayout>
