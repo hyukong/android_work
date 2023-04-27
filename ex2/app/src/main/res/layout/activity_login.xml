@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".LoginActivity">
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/username"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:hint="用户名" />-->
+
+    <!--    <EditText-->
+    <!--        android:id="@+id/password"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:hint="密码"-->
+    <!--        android:inputType="textPassword" />-->
+    <TableLayout
+        android:id="@+id/TableLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="0.5"
+        android:textColor="#000000">
+
+        <TableRow
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp">
+
+            <ImageView
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/customer"></ImageView>
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="用户名"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/username"
+
+                android:layout_width="250dp"
+                android:layout_height="44dp"
+                android:background="@drawable/edittext_sytle"
+                android:hint="请输入用户名"
+                android:textColorHint="#95A1AA"
+                android:textSize="13sp" />
+            />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/pass"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="密码：  "
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/password"
+
+                android:layout_width="250dp"
+                android:layout_height="44dp"
+                android:background="@drawable/edittext_sytle"
+                android:hint="请输入密码"
+                android:inputType="textPassword"
+                android:textColorHint="#95A1AA"
+                android:textSize="13sp" />
+            />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/toindex"
+        android:layout_width="250dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/sub_button"
+        android:onClick="handleLogin"
+        android:text="登录"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:onClick="goToRegister"
+        android:text="还没有账号？注册" />
+
+</LinearLayout>
