@@ -1,0 +1,7 @@
+#Mon Apr 24 10:42:21 CST 2023
+base.0=F\:\\androidproject\\layoutclasswork\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\androidproject\\layoutclasswork\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
