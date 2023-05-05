@@ -23,6 +23,7 @@
         android:usesCleartextTraffic="true" >
         <activity
             android:name="com.example.layoutclasswork.MainActivity"
+            android:exported="true"
             android:label="@string/main"
             android:theme="@style/AppTheme" >
             <intent-filter>
@@ -33,6 +34,7 @@
         </activity>
         <activity
             android:name="com.example.layoutclasswork.LoginActivity"
+            android:exported="true"
             android:label="@string/log_act"
             android:theme="@style/AppTheme" >
 
@@ -45,6 +47,7 @@
         </activity>
         <activity
             android:name="com.example.layoutclasswork.RegisterActivity"
+            android:exported="true"
             android:label="@string/res_act"
             android:theme="@style/AppTheme" >
 
@@ -57,6 +60,7 @@
         </activity>
         <activity
             android:name="com.example.layoutclasswork.ListChat"
+            android:exported="true"
             android:label="@string/chat"
             android:theme="@style/AppTheme" >
 

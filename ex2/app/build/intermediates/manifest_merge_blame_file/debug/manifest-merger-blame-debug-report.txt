@@ -15,7 +15,7 @@
 11-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:4:22-76
 12
 13    <application
-13-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:5:5-64:19
+13-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:5:5-68:19
 14        android:allowBackup="true"
 14-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:6:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -33,104 +33,112 @@
 22        android:usesCleartextTraffic="true" >
 22-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:8:9-44
 23        <activity
-23-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:9-21:20
+23-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:9-22:20
 24            android:name="com.example.layoutclasswork.MainActivity"
 24-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:19-47
-25            android:label="@string/main"
-25-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:14:13-41
-26            android:theme="@style/AppTheme" >
-26-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:15:13-44
-27            <intent-filter>
-27-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-20:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:17-69
-28-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:17-77
-30-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:27-74
-31            </intent-filter>
-32        </activity>
-33        <activity
-33-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:22:9-31:20
-34            android:name="com.example.layoutclasswork.LoginActivity"
-34-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:23:13-42
-35            android:label="@string/log_act"
-35-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:25:13-44
-36            android:theme="@style/AppTheme" >
-36-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:24:13-44
-37
-38            <!-- 配置 Intent 过滤器 -->
-39            <intent-filter>
-39-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-20:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:17-69
-40-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:17-77
-42-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:27-74
-43            </intent-filter>
-44        </activity>
-45        <activity
-45-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:32:9-41:20
-46            android:name="com.example.layoutclasswork.RegisterActivity"
-46-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:33:13-45
-47            android:label="@string/res_act"
-47-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:35:13-44
-48            android:theme="@style/AppTheme" >
-48-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:34:13-44
-49
-50            <!-- 配置 Intent 过滤器 -->
-51            <intent-filter>
-51-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-20:29
-52                <action android:name="android.intent.action.MAIN" />
-52-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:17-69
-52-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:25-66
-53
-54                <category android:name="android.intent.category.LAUNCHER" />
-54-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:17-77
-54-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:27-74
-55            </intent-filter>
-56        </activity>
-57        <activity
-57-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:42:9-51:20
-58            android:name="com.example.layoutclasswork.ListChat"
-58-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:43:13-37
-59            android:label="@string/chat"
-59-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:45:13-41
-60            android:theme="@style/AppTheme" >
-60-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:44:13-44
-61
-62            <!-- 配置 Intent 过滤器 -->
-63            <intent-filter>
-63-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-20:29
-64                <action android:name="android.intent.action.MAIN" />
-64-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:17-69
-64-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:25-66
+25            android:exported="true"
+25-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-36
+26            android:label="@string/main"
+26-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:14:13-41
+27            android:theme="@style/AppTheme" >
+27-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:15:13-44
+28            <intent-filter>
+28-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:13-21:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:17-69
+29-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:17-77
+31-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:23:9-33:20
+35            android:name="com.example.layoutclasswork.LoginActivity"
+35-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:24:13-42
+36            android:exported="true"
+36-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:27:13-36
+37            android:label="@string/log_act"
+37-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:26:13-44
+38            android:theme="@style/AppTheme" >
+38-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:25:13-44
+39
+40            <!-- 配置 Intent 过滤器 -->
+41            <intent-filter>
+41-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:13-21:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:17-69
+42-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:17-77
+44-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:34:9-44:20
+48            android:name="com.example.layoutclasswork.RegisterActivity"
+48-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:35:13-45
+49            android:exported="true"
+49-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:38:13-36
+50            android:label="@string/res_act"
+50-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:37:13-44
+51            android:theme="@style/AppTheme" >
+51-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:36:13-44
+52
+53            <!-- 配置 Intent 过滤器 -->
+54            <intent-filter>
+54-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:13-21:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:17-69
+55-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:17-77
+57-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:45:9-55:20
+61            android:name="com.example.layoutclasswork.ListChat"
+61-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:46:13-37
+62            android:exported="true"
+62-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:49:13-36
+63            android:label="@string/chat"
+63-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:48:13-41
+64            android:theme="@style/AppTheme" >
+64-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:47:13-44
 65
-66                <category android:name="android.intent.category.LAUNCHER" />
-66-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:17-77
-66-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:27-74
-67            </intent-filter>
-68        </activity>
+66            <!-- 配置 Intent 过滤器 -->
+67            <intent-filter>
+67-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:13-21:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:17-69
+68-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:25-66
 69
-70        <!-- 网络监听 -->
-71        <receiver
-71-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:54:9-61:20
-72            android:name="com.example.layoutclasswork.NetworkChangeReceiver"
-72-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:55:13-50
-73            android:enabled="true"
-73-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:56:13-35
-74            android:exported="true" >
-74-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:57:13-36
-75            <intent-filter>
-75-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:58:13-60:29
-76                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-76-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:17-79
-76-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:25-76
-77            </intent-filter>
-78        </receiver>
-79    </application>
-80
-81</manifest>
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:17-77
+70-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:27-74
+71            </intent-filter>
+72        </activity>
+73
+74        <!-- 网络监听 -->
+75        <receiver
+75-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:58:9-65:20
+76            android:name="com.example.layoutclasswork.NetworkChangeReceiver"
+76-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:13-50
+77            android:enabled="true"
+77-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:60:13-35
+78            android:exported="true" >
+78-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:61:13-36
+79            <intent-filter>
+79-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:62:13-64:29
+80                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+80-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:63:17-79
+80-->C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:63:25-76
+81            </intent-filter>
+82        </receiver>
+83    </application>
+84
+85</manifest>

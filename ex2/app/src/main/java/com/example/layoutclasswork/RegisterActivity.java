@@ -27,6 +27,7 @@ import java.util.Locale;
 public class RegisterActivity extends AppCompatActivity {
     private EditText etDate;
     private String gender = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

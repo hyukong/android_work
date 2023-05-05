@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\8ddf10f0f61bbc49e5cfb942a015ba6e\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\0a80afa9ca98134d5ce7f6232c71e0a7\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,20 +32,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\86132\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
 	package
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-66:12
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:1-70:12
 		INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:2:11-69
@@ -53,7 +54,7 @@ ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\ma
 	android:name
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:4:22-76
 application
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:5:5-64:19
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:5:5-68:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:5-89
@@ -75,61 +76,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\86
 	android:usesCleartextTraffic
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:8:9-44
 activity#com.example.layoutclasswork.MainActivity
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:9-22:20
 	android:label
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:14:13-41
+	android:exported
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-36
 	android:theme
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:15:13-44
 	android:name
 		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.example.layoutclasswork.LoginActivity
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:22:9-31:20
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:23:9-33:20
 	android:label
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:25:13-44
-	android:theme
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:24:13-44
-	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:23:13-42
-activity#com.example.layoutclasswork.RegisterActivity
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:32:9-41:20
-	android:label
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:35:13-44
-	android:theme
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:34:13-44
-	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:33:13-45
-activity#com.example.layoutclasswork.ListChat
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:42:9-51:20
-	android:label
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:45:13-41
-	android:theme
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:44:13-44
-	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:43:13-37
-receiver#com.example.layoutclasswork.NetworkChangeReceiver
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:54:9-61:20
-	android:enabled
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:56:13-35
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:26:13-44
 	android:exported
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:57:13-36
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:25:13-44
 	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:55:13-50
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:24:13-42
+activity#com.example.layoutclasswork.RegisterActivity
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:34:9-44:20
+	android:label
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:37:13-44
+	android:exported
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:38:13-36
+	android:theme
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.example.layoutclasswork.ListChat
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:45:9-55:20
+	android:label
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:48:13-41
+	android:exported
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:49:13-36
+	android:theme
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:46:13-37
+receiver#com.example.layoutclasswork.NetworkChangeReceiver
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:58:9-65:20
+	android:enabled
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:60:13-35
+	android:exported
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:13-50
 intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:58:13-60:29
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:62:13-64:29
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:17-79
+ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:63:17-79
 	android:name
-		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:59:25-76
+		ADDED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml:63:25-76
 uses-sdk
 INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\86132\Desktop\Android\GitHubtest\android_work\ex2\app\src\main\AndroidManifest.xml
@@ -138,6 +147,8 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\86132\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\8ddf10f0f61bbc49e5cfb942a015ba6e\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\8ddf10f0f61bbc49e5cfb942a015ba6e\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\86132\.gradle\caches\transforms-2\files-2.1\0a80afa9ca98134d5ce7f6232c71e0a7\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
